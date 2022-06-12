@@ -3,6 +3,9 @@
 
 This repository contains IBM Data Science Specialization Resources for Learning Purposes
 
+HAPPY LEARNING
+ ⊂◉‿◉つ
+
 
 
 
